@@ -26,6 +26,6 @@ https://github.com/UAB-CS-332-532/Lab-02/blob/ba5ec347a13e5cc447c49037a0600be89e
 
 5. Print the sorted array.
 
-## Optional
+## Optional (Do not Include in Submission)
 
 - Use one of the random functions (e.g. drand48(), lrand48(), or mrand48()) to generate random number for each entry.
